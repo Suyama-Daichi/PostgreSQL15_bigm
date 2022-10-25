@@ -1,7 +1,7 @@
 # postgres15_bigm
 
 ## What's this ?
-PostgreSQL 15に [pg_bigm v1.2](https://pgbigm.osdn.jp/) をインストールしたDocker Imageです。
+公式イメージのPostgreSQL 15に [pg_bigm v1.2](https://pgbigm.osdn.jp/) をインストールしたDocker Imageです。
 
 [symdit/postgresql15-bigm - Docker Hub](https://hub.docker.com/repository/docker/symdit/postgresql15-bigm)
 
