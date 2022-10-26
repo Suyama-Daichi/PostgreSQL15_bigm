@@ -1,4 +1,4 @@
-# postgres15_bigm
+# postgreSQL15_bigm
 
 ## What's this ?
 公式イメージのPostgreSQL 15に [pg_bigm v1.2](https://pgbigm.osdn.jp/) をインストールしたDocker Imageです。
